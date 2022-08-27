@@ -113,7 +113,7 @@ const turnoComputadora = ( puntosMinimos )=>{
         } else if (puntosComputadora>21) {
             alert('Jugador gana...!!!');
         } else {alert('La computadora gana');}
-    }, 100);
+    }, 500);
 
 }
 
